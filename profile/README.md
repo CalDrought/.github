@@ -6,7 +6,7 @@ This project aims to assess whether the historical and forecasted data is suffic
 
 This is a capstone project for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at [Bren School of Environmental Science and Management](https://bren.ucsb.edu/), University of California, Santa Barbara
 
-Repositories in our project:
+## Repositories in our project:
 
 [Gap Analysis](https://github.com/CalDrought/gap_analysis)
 

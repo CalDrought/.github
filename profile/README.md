@@ -1,4 +1,4 @@
-# Data for Drought Resiliency Capstone Project
+# [Data for Drought Resiliency Capstone Project](https://bren.ucsb.edu/projects/data-drought-resiliency)
 
 ## Abstract
 California is known for its susceptibility to drought. The State Water Resources Control Board (SWRCB) and Department of Water Resources (DWR) have collaborated to compile critical information such as water shortage outlooks, historical production and consumption datasets. While this data has been collected to predict and manage water supplies; historically it has remained isolated and poorly integrated. To address this gap, the California Natural Resource Agency (CNRA) developed a water data portal that provides drought related data, helping water managers with information to assess their water supply/demand needs and vulnerabilities.

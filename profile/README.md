@@ -13,6 +13,8 @@ This project aims to assess whether the historical and forecasted data is suffic
 
 “This is a capstone project for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at [Bren School of Environmental Science and Management](https://bren.ucsb.edu/), University of California, Santa Barbara”
 
+
+
 ### Data Source
 The datasets used in this project originate from the California Natural Resources Agency. These files provide historical and forecasted data related to water shortage conditions, as well as water production and delivery across various water agencies in the state.
 
@@ -39,4 +41,19 @@ Houses the code for the dashboard section of the capstone project. This dashboar
 [Urban-Water-Drought-Data](https://github.com/CalDrought/urban-water-drought-data) 
 
 Is a repo of the FlowWest github repository, which contains the data and metadata associated with this project. 
+
+## Contributors:
+[Tom Gibbens-Matsuyama](https://tommats00.github.io/)
+
+[Emma Bea Mitchell](https://emmabeamitchell.github.io/)
+
+[Karol Paya]
+
+[Takeen Shamloo]
+
+#### Client:
+[California Water Data Consortium](https://cawaterdata.org/)
+
+#### Advisor
+[Naomi Tauge](https://bren.ucsb.edu/people/christina-tague)
 

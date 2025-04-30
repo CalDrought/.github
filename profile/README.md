@@ -3,7 +3,7 @@
 ![California Drought](https://bren.ucsb.edu/sites/default/files/2025-01/life-finds-a-way-photo-of-grass-pushing-through-d-2023-11-27-05-30-40-utc-2.jpg)
 
 
-# [Data for Drought Resiliency Capstone Project](https://bren.ucsb.edu/projects/data-drought-resiliency)
+### [More information on the project can be found here](https://bren.ucsb.edu/projects/data-drought-resiliency)
 
 
 ## Abstract

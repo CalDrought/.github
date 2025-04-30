@@ -11,7 +11,7 @@ California is known for its susceptibility to drought. The State Water Resources
 This project aims to assess whether the historical and forecasted data is sufficient, useful, and accessible to better manage water resources.The team will perform data gap analyses and deliver recommendations from a data science perspective to enhance user experience. An automated workflow will be designed to help water resource managers and the public in visualizing and performing statistics to analyze the data. The ultimate goal is to collaborate with the California Water Data Consortium to improve understanding and provide an easily accessible resource for research and analysis in drought prevention.
 
 
-“This is a capstone project for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at [Bren School of Environmental Science and Management](https://bren.ucsb.edu/), University of California, Santa Barbara”
+This is a capstone project for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at [Bren School of Environmental Science and Management](https://bren.ucsb.edu/), University of California, Santa Barbara
 
 
 
@@ -55,7 +55,7 @@ Is a repo of the FlowWest github repository, which contains the data and metadat
 [California Water Data Consortium](https://cawaterdata.org/)
 
 #### Advisor
-[Dr. Naomi Tauge](https://bren.ucsb.edu/people/christina-tague)
+[Dr. Naomi Tague](https://bren.ucsb.edu/people/christina-tague)
 
 #### Instructor 
 [Carmen Galaz García](https://bren.ucsb.edu/people/carmen-galaz-garcia-0)

@@ -55,5 +55,8 @@ Is a repo of the FlowWest github repository, which contains the data and metadat
 [California Water Data Consortium](https://cawaterdata.org/)
 
 #### Advisor
-[Naomi Tauge](https://bren.ucsb.edu/people/christina-tague)
+[Dr. Naomi Tauge](https://bren.ucsb.edu/people/christina-tague)
+
+#### Instructor 
+[Carmen Galaz García](https://bren.ucsb.edu/people/carmen-galaz-garcia-0)
 

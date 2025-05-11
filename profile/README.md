@@ -41,7 +41,7 @@ Emma Bea Mitchell { [GitHub](https://github.com/emmabeamitchell) | [Website](htt
 
 Karol Paya { [GitHub](https://github.com/kpaya) | [LinkedIn](https://www.linkedin.com/in/karolpaya/) }
 
-Takeen Shamloo { [GitHub](https://github.com/takeenshamloo) | [LinkedIn](https://www.linkedin.com/in/takeen-shamloo-aa2685162/) }
+Takeen Shamloo { [GitHub](https://github.com/takeenshamloo) | [Website](https://takeenshamloo.github.io/) | [LinkedIn](https://www.linkedin.com/in/takeen-shamloo-aa2685162/) }
 
 #### Client:
 [California Water Data Consortium](https://cawaterdata.org/)

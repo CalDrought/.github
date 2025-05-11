@@ -1,18 +1,14 @@
-# Data for Drought Resiliency Capstone Project
+# Visualizing Urban Water Data for Drought Management Across California
 
-![California Drought](https://bren.ucsb.edu/sites/default/files/2025-01/life-finds-a-way-photo-of-grass-pushing-through-d-2023-11-27-05-30-40-utc-2.jpg)
+![Image of California Drought](https://bren.ucsb.edu/sites/default/files/2025-01/life-finds-a-way-photo-of-grass-pushing-through-d-2023-11-27-05-30-40-utc-2.jpg)
 
+## Abstract
+California is known for its susceptibility to drought, caused in part by a misallocation of water resources and an increase in demand. Critical drought related information is reported to multiple state agencies, separating important data and limiting access, leading to the underutilization and poor integration of data into water management. The California Water Data Consortium has created an open source portal containing previously separately stored data into one cohesive and clean format. This project assists the Consortium by creating a governance report, including gap analyses and staff training recommendations, to further clean and maintain the data. The project also created an online dashboard, making it easy for water managers with limited time or coding experience to analyze the data and identify critical missing values that could lead to misinterpretation. By improving data accessibility and usability, this project aims to strengthen California’s drought resilience through more informed and coordinated water management practices.
 
 ### [More information on the project can be found here](https://bren.ucsb.edu/projects/data-drought-resiliency)
 
-
-## Abstract
-California is known for its susceptibility to drought. The State Water Resources Control Board (SWRCB) and Department of Water Resources (DWR) have collaborated to compile critical information such as water shortage outlooks, historical production and consumption datasets. While this data has been collected to predict and manage water supplies; historically it has remained isolated and poorly integrated. To address this gap, the California Natural Resource Agency (CNRA) developed a water data portal that provides drought related data, helping water managers with information to assess their water supply/demand needs and vulnerabilities.
-This project aims to assess whether the historical and forecasted data is sufficient, useful, and accessible to better manage water resources.The team will perform data gap analyses and deliver recommendations from a data science perspective to enhance user experience. An automated workflow will be designed to help water resource managers and the public in visualizing and performing statistics to analyze the data. The ultimate goal is to collaborate with the California Water Data Consortium to improve understanding and provide an easily accessible resource for research and analysis in drought prevention.
-
-
 ### Data Source
-The datasets used in this project originate from the California Natural Resources Agency. These files provide historical and forecasted data related to water shortage conditions, as well as water production and delivery across various water agencies in the state.
+The datasets used in this project originate from the [California Natural Resources Agency](https://data.cnra.ca.gov/dataset/urban-water-data-drought). These files provide historical and forecasted data related to water shortage conditions, as well as water production and delivery across various water agencies in the state. 
 
 | Variable                         | Type         | Approximate Size | Description                                                                 |
 |----------------------------------|--------------|------------------|-----------------------------------------------------------------------------|
@@ -28,24 +24,24 @@ This is a capstone project for the [Master of Environmental Data Science](https:
 
 [Gap Analysis](https://github.com/CalDrought/gap_analysis)
 
-Houses our gap analysis for urban drought data that is currently housed in a CNRA portal. Links to the original data can be found in the Urban Water Drought Data ReadMe. Includes an analysis of current data gaps, desired data, user usability, and training recommendations for staff.
+Houses our gap analysis for urban drought data that is currently housed in the [CNRA portal](https://data.cnra.ca.gov/dataset/urban-water-data-drought). Detailed descriptions of the original data can be found in the Urban Water Drought Data ReadMe. This repository includes an analysis of current data gaps, desired data, user usability, and training recommendations for staff.
 
 [Dashboard](https://github.com/CalDrought/dashboard)
 
-Houses the code for the dashboard section of the capstone project. This dashboard includes maps of California, graphs of water/ drought data, summary statistics, and an overview of missing values in the data. 
+Houses the code for the dashboard section of the capstone project. This dashboard includes maps of California, graphs of water/ drought data, summary statistics, and an overview of missing values in the data. The intention of this dashboard is to display the data in easily visualized and interpretable way. 
 
 [Urban-Water-Drought-Data](https://github.com/CalDrought/urban-water-drought-data) 
 
-Is a repo of the FlowWest github repository, which contains the data and metadata associated with this project. 
+Is a forked repository of the [FlowWest github repository](https://github.com/FlowWest/urban-water-drought-data/tree/7fa75d25fe327423f715dc0d55ff258a11d8c6e4), which contains the data and metadata associated with this project. 
 
 ## Contributors:
-[Tom Gibbens-Matsuyama](https://tommats00.github.io/)
+Tom Gibbens-Matsuyama { [GitHub](https://github.com/tommats00) | [Website](https://tommats00.github.io/) | [LinkedIn](https://www.linkedin.com/in/tom-gibbens-matsuyama-861458248?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BM8h7JpVaT6WvTKH4YaIIlg%3D%3D) }
 
-[Emma Bea Mitchell](https://emmabeamitchell.github.io/)
+Emma Bea Mitchell { [GitHub](https://github.com/emmabeamitchell) | [Website](https://emmabeamitchell.github.io/) | [LinkedIn](www.linkedin.com/in/emma-bea-mitchell) }
 
-[Karol Paya]
+Karol Paya { [GitHub](https://github.com/kpaya) | [LinkedIn](https://www.linkedin.com/in/karolpaya/) }
 
-[Takeen Shamloo]
+Takeen Shamloo { [GitHub](https://github.com/takeenshamloo) | [LinkedIn](https://www.linkedin.com/in/takeen-shamloo-aa2685162/) }
 
 #### Client:
 [California Water Data Consortium](https://cawaterdata.org/)
@@ -56,3 +52,5 @@ Is a repo of the FlowWest github repository, which contains the data and metadat
 #### Instructor 
 [Carmen Galaz García](https://bren.ucsb.edu/people/carmen-galaz-garcia-0)
 
+
+Copyright CC0-1.0 2025

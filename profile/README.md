@@ -22,7 +22,7 @@ This is a capstone project for the [Master of Environmental Data Science](https:
 
 ## Repositories in our project:
 
-[Gap Analysis](https://github.com/CalDrought/gap_analysis)
+[Governance_Report](https://github.com/CalDrought/governance_report)
 
 Houses our gap analysis for urban drought data that is currently housed in the [CNRA portal](https://data.cnra.ca.gov/dataset/urban-water-data-drought). Detailed descriptions of the original data can be found in the Urban Water Drought Data ReadMe. This repository includes an analysis of current data gaps, desired data, user usability, and training recommendations for staff.
 
